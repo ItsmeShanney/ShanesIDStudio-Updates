@@ -3,9 +3,9 @@
   "productName": "Shane's ID Studio",
   "version": "1.0.6",
   "minVersion": "1.0.5",
-  "releaseNotes": "Shane's ID Studio v1.0.6: UI polish, Help & How To Use, Developer Information, donation and contact details, improved Photo Set controls and paper sizes, and update notification support.",
+  "releaseNotes": "NOTIFICATION TEST: A newer version of Shane's ID Studio is available. This is a temporary test to verify the update notification system.",
   "publishedAt": "2026-09-21T00:00:00Z",
-  "downloadUrl": "PASTE_THE_FINAL_V1.0.6_DOWNLOAD_URL_HERE",
-  "sha256": "PASTE_THE_FINAL_V1.0.6_SHA256_HERE",
-  "packageFileName": "ShanesIDStudio-1.0.6.bin"
+  "downloadUrl": "https://example.com/notification-test",
+  "sha256": "",
+  "packageFileName": "ShanesIDStudio-1.0.7-test.bin"
 }
