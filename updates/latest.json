@@ -3,9 +3,25 @@
   "productName": "Shane's ID Studio",
   "version": "1.0.6",
   "minVersion": "1.0.5",
-  "releaseNotes": "NOTIFICATION TEST: A newer version of Shane's ID Studio is available. This is a temporary test to verify the update notification system.",
+  "releaseNotes": "Shane's ID Studio v1.0.6
+
+What's New
+• Improved AI Photo Set workflow and layouts
+• Added Ready-to-Use Photo mode
+• Added A4, Letter, Legal, Long 8.5×13, A5, and A3 paper sizes
+• Improved Paper selector and Photo Set controls
+• Added modern UI styling and Settings-based accent colors
+• Added Under Development and Beta feature badges
+• Improved Crop Photo interface
+• Added Help & How To Use window
+• Added Developer Information, donation, and contact sections
+• Added update notifications and improved update experience
+
+This release focuses on usability, workflow improvements, and a cleaner overall experience.
+
+Thank you for using and supporting Shane's ID Studio.",
   "publishedAt": "2026-09-21T00:00:00Z",
-  "downloadUrl": "https://example.com/notification-test",
+  "downloadUrl": "https://drive.google.com/file/d/1ECsgtKVXbdo1FRw6T24dhJNGM0v-gJOE/view?usp=sharing",
   "sha256": "",
   "packageFileName": "ShanesIDStudio-1.0.7-test.bin"
 }
