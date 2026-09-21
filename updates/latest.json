@@ -6,6 +6,6 @@
   "releaseNotes": "Improved AI Photo Set workflow, layouts, paper sizes, and controls. Added Ready-to-Use Photo, modernized UI styling, Help & How To Use, Developer Information, donation/contact options, feature status badges, and update notifications. This release focuses on a cleaner, smoother, and more practical user experience.",
   "publishedAt": "2026-09-21T00:00:00Z",
   "downloadUrl": "https://drive.google.com/file/d/1ECsgtKVXbdo1FRw6T24dhJNGM0v-gJOE/view?usp=sharing",
-  "sha256": "",
-  "packageFileName": "ShanesIDStudio-1.0.7-test.bin"
+  "sha256": "PASTE_THE_FINAL_V1.0.6_SHA256_HERE",
+  "packageFileName": "ShanesIDStudio-1.0.6.bin"
 }
