@@ -3,65 +3,7 @@
   "productName": "Shane's ID Studio",
   "version": "1.0.7",
   "minVersion": "1.0.2",
-  "releaseNotes": "What's New
-
-ID Designer Improvements
-• Improved ID Designer workflow and overall usability
-• Added Preview workflow for checking ID layouts before export
-• Improved front and back ID layout handling
-• Improved zoom, navigation, and workspace controls
-• Added better support for PET and PVC ID layouts
-
-Preview and Export
-• Added dedicated Preview experience for ID projects
-• Preview now follows the actual project layout before exporting
-• Improved PDF and Publisher export workflow
-• Improved print layout accuracy and positioning
-
-Photo Set Improvements
-• Improved AI Photo Set workflow
-• Added better handling for multiple photo layouts
-• Improved background removal workflow
-• Improved photo preparation for ID printing
-
-Editors Hub
-• Improved image editing workflow
-• Added better crop and image preparation tools
-• Improved image selection and workspace interaction
-• Improved tools for preparing photos before ID production
-
-Paper Sizes
-• Added additional paper and ID size options
-• Added support for PET and PVC CR80 sizes
-• Added the CSC prescribed large ID size
-• Improved paper size selection across the workspace
-
-User Interface
-• Improved overall application interface
-• Updated several workspace controls and interactions
-• Improved Accent Color integration
-• Improved visual consistency across the application
-
-Improvements and Fixes
-
-• Improved application stability
-• Improved performance in several workflows
-• Fixed various UI and interaction issues
-• Improved image handling and processing
-• Improved project preview accuracy
-• Improved overall user experience
-
-Important Note
-
-Some buttons and features may still be under development in this release. One of the purposes of the v1.0.7 release is to allow users to explore the application, familiarize themselves with the available tools, and provide feedback.
-
-More features and improvements will continue to be introduced in future updates.
-
-Thank You
-
-Thank you for testing and supporting Shane's ID Studio.
-
-Your feedback helps improve the application and shape future releases.",
+  "releaseNotes": "What's New\n\nID Designer Improvements\n• Improved ID Designer workflow and overall usability\n• Added Preview workflow for checking ID layouts before export\n• Improved front and back ID layout handling\n• Improved zoom, navigation, and workspace controls\n• Added better support for PET and PVC ID layouts\n\nPreview and Export\n• Added dedicated Preview experience for ID projects\n• Preview now follows the actual project layout before exporting\n• Improved PDF and Publisher export workflow\n• Improved print layout accuracy and positioning\n\nPhoto Set Improvements\n• Improved AI Photo Set workflow\n• Added better handling for multiple photo layouts\n• Improved background removal workflow\n• Improved photo preparation for ID printing\n\nEditors Hub\n• Improved image editing workflow\n• Added better crop and image preparation tools\n• Improved image selection and workspace interaction\n• Improved tools for preparing photos before ID production\n\nPaper Sizes\n• Added additional paper and ID size options\n• Added support for PET and PVC CR80 sizes\n• Added the CSC prescribed large ID size\n• Improved paper size selection across the workspace\n\nUser Interface\n• Improved overall application interface\n• Updated several workspace controls and interactions\n• Improved Accent Color integration\n• Improved visual consistency across the application\n\nImprovements and Fixes\n• Improved application stability\n• Improved performance in several workflows\n• Fixed various UI and interaction issues\n• Improved image handling and processing\n• Improved project preview accuracy\n• Improved overall user experience\n\nImportant Note\n\nSome buttons and features may still be under development in this release. One of the purposes of the v1.0.7 release is to allow users to explore the application, familiarize themselves with the available tools, and provide feedback.\n\nMore features and improvements will continue to be introduced in future updates.\n\nThank You\n\nThank you for testing and supporting Shane's ID Studio.\n\nYour feedback helps improve the application and shape future releases.",
   "publishedAt": "2026-10-07T00:00:00Z",
   "downloadUrl": "https://drive.google.com/file/d/13J8EHPh0Be9WXoQpnBjjL1t15XuzEbeL/view?usp=sharing",
   "sha256": "",
